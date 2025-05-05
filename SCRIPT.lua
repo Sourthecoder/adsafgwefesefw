@@ -131,7 +131,7 @@ local function createCustomKeyGUI()
     local titleLabel = Instance.new("TextLabel", mainFrame)
     titleLabel.Size = UDim2.new(1, 0, 0, 40)
     titleLabel.BackgroundTransparency = 1
-    titleLabel.Text = "no script for u nigger boy"
+    titleLabel.Text = "u lucky ur ass payed"
     titleLabel.TextColor3 = Color3.new(1, 1, 1)
     titleLabel.TextSize = 18
 
